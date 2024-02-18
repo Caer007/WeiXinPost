@@ -1,6 +1,6 @@
 # 公众号配置
 # 公众号appId
-app_id = "wx******************"
+app_id = "wx*"
 # 公众号appSecret
 app_secret = "f9a80260d33******************"
 # 模板消息id
